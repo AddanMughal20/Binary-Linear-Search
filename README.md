@@ -58,3 +58,4 @@ If the target element is not in the array (e.g., 6), it will require 3 compariso
 First check: Middle = 7
 Second check: Middle of left sub-array = 3
 Third check: Middle of the sub-sub-array = 5
+My LinkedIn post link is here:https://www.linkedin.com/posts/addan-mughal-089856347_binarysearch-linearsearch-codingjourney-activity-7286463841809350657-295J?utm_source=share&utm_medium=member_desktop
